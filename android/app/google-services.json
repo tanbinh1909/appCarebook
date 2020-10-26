@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "707638621589",
+    "firebase_url": "https://carebookcenter-723f0.firebaseio.com",
+    "project_id": "carebookcenter-723f0",
+    "storage_bucket": "carebookcenter-723f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707638621589:android:a3ed2292b1990229",
+        "android_client_info": {
+          "package_name": "com.carebookmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707638621589-g6qvnmjfmjl67u4qg94otngeqgjqmh5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBguGfkyH_wJn0n0VF8UP0T9Rsn-7fmCtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

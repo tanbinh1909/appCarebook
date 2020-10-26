@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Paracel\\CarebookMobile_Final\\android\\app\\build\\intermediates\\res\\merged\\release\\xml\\provider_paths.xml",
+        "source": "D:\\Paracel\\CarebookMobile_Final\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\packaged_res\\release\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\Paracel\\CarebookMobile_Final\\android\\app\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\919c5c1463fa4ae4028da9c7cd1da1b0\\res\\xml\\preferences.xml"
+    }
+]

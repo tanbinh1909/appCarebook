@@ -1,0 +1,1 @@
+link ../../../../leveldb-library/util/windows_logger.h

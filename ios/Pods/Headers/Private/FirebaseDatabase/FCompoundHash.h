@@ -1,0 +1,1 @@
+link ../../../FirebaseDatabase/Firebase/Database/Core/FCompoundHash.h

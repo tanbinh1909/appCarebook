@@ -1,0 +1,1 @@
+link ../../../GoogleToolboxForMac/Foundation/GTMLogger.h

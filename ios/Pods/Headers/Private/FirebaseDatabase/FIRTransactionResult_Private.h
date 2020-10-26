@@ -1,0 +1,1 @@
+link ../../../FirebaseDatabase/Firebase/Database/Api/Private/FIRTransactionResult_Private.h

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">707638621589-g6qvnmjfmjl67u4qg94otngeqgjqmh5p.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://carebookcenter-723f0.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">707638621589</string>
+    <string name="google_api_key" translatable="false">AIzaSyBguGfkyH_wJn0n0VF8UP0T9Rsn-7fmCtA</string>
+    <string name="google_app_id" translatable="false">1:707638621589:android:a3ed2292b1990229</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBguGfkyH_wJn0n0VF8UP0T9Rsn-7fmCtA</string>
+    <string name="google_storage_bucket" translatable="false">carebookcenter-723f0.appspot.com</string>
+    <string name="project_id" translatable="false">carebookcenter-723f0</string>
+</resources>

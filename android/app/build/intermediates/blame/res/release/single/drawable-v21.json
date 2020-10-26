@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Paracel\\CarebookMobile_Final\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\442a5eeb454e642ada88844802e21bf4\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Paracel\\CarebookMobile_Final\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\442a5eeb454e642ada88844802e21bf4\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Paracel\\CarebookMobile_Final\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c23f8e3e76932c3a286418ec47d90c97\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Paracel\\CarebookMobile_Final\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\442a5eeb454e642ada88844802e21bf4\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
